@@ -45,4 +45,3 @@ Here’s a photo of the robot used in this project:
   <img width="500" height="400" src="https://github.com/user-attachments/assets/0261b159-366f-4a95-b76e-e86b9b0f8177" alt="Our Robot Platform" />
 </p>
 
----
